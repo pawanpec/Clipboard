@@ -38,3 +38,10 @@
 1. Set `NODE_ENV=development` in `.env`.
 2. Run `npm run dev`
 
+### API URL
+1. What’s the average per hour salary
+   http://localhost:4783/api/records/average
+2.  What are the top 10 nursing departments
+    http://localhost:4783/api/records/topDepartment
+3.  What percentage of nurses have bachelor’s v. associate’s?
+    http://localhost:4783/api/records/percentageBachelorNurse

@@ -38,3 +38,5 @@ tmp/
 # Mac OS
 .DS_Store
 TASKS.md
+.idea/
+.idea/workspace.xml
