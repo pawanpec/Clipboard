@@ -48,3 +48,5 @@
 
 dev 1
 dev 2
+squash1
+squash2
