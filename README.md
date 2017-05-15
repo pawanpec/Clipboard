@@ -45,3 +45,5 @@
     http://localhost:4783/api/records/topDepartment
 3.  What percentage of nurses have bachelor’s v. associate’s?
     http://localhost:4783/api/records/percentageBachelorNurse
+
+squash1
