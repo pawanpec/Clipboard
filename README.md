@@ -47,3 +47,4 @@
     http://localhost:4783/api/records/percentageBachelorNurse
 
 dev 1
+dev 2
